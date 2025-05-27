@@ -25,7 +25,7 @@ Click the **Fork** button on the top right to create your own copy of the projec
 
 ### 2. Clone Your Fork
 ```bash
-git clone https://github.com/your-username/UniQPapers.git
+git clone https://github.com/your-username/Notifications-Module.git
 ```
 > *Replace `your-username` with your actual GitHub username.*
 
@@ -61,7 +61,7 @@ Open a pull request (PR) to the `dev` branch (unless you are fixing something cr
 ✅ Code of Conduct
 -----------------
 
-We expect all contributors to abide by our [Code of Conduct](https://github.com/coderlakshayjain/UniQPapers/blob/main/CODE-OF-CONDUCT.md) to create a welcoming and respectful environment.
+We expect all contributors to abide by our [Code of Conduct](https://github.com/coderlakshayjain/Notifications-Module/blob/master/CODE-OF-CONDUCT.md) to create a welcoming and respectful environment.
 
 * * * * *
 
